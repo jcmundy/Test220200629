@@ -1,0 +1,177 @@
+{
+    "@id": "https://readux.ecdsdev.org/annotations/jcmundy39/osh-1911/list/osh-1911_00000012.jpg",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "resources": [
+        {
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "resource": {
+                "format": "text/html",
+                "@type": "dctypes:Text",
+                "language": "en",
+                "chars": "<p>words</p>"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f1780eb1-ec50-43ef-a42e-222e5da3bc77",
+            "motivation": "oa:commenting",
+            "@type": "oa:Annotation",
+            "stylesheet": {
+                "value": ".anno-f1780eb1-ec50-43ef-a42e-222e5da3bc77 { background: rgba(0, 191, 255, 0.5); }",
+                "type": "CssStylesheet"
+            },
+            "on": {
+                "selector": {
+                    "value": "xywh=1476,992,321,20",
+                    "@type": "oa:FragmentSelector",
+                    "item": {
+                        "endSelector": {
+                            "value": "//*[@id='658f460b-52e8-4bd2-90fe-9ff1d7fc864a']",
+                            "@type": "XPathSelector",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 5
+                            }
+                        },
+                        "startSelector": {
+                            "value": "//*[@id='a9cc8ed9-5b1c-482d-8325-279afded8d7e']",
+                            "@type": "XPathSelector",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 2
+                            }
+                        },
+                        "@type": "RangeSelector"
+                    }
+                },
+                "@type": "oa:SpecificResource",
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-1911/canvas/osh-1911_00000012.jpg",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/manifest",
+                    "@type": "sc:Manifest"
+                }
+            }
+        },
+        {
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "resource": {
+                "format": "text/html",
+                "@type": "dctypes:Text",
+                "language": "en",
+                "chars": "<p>More</p>"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9397d9d9-011f-40a0-a700-d7e1f0b0ec7c",
+            "motivation": "oa:commenting",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "value": "xywh=1159,125,205,121",
+                    "@type": "oa:FragmentSelector",
+                    "item": {
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1158.81747,125.33407h102.63494v0h102.63494v60.52904v60.52904h-102.63494h-102.63494v-60.52904z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0f6a6a9d-fdcd-4f28-8c16-db8157398ad2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "@type": "oa:Choice",
+                        "default": {
+                            "value": "xywh=1159,125,205,121",
+                            "@type": "oa:FragmentSelector"
+                        }
+                    }
+                },
+                "@type": "oa:SpecificResource",
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-1911/canvas/osh-1911_00000012.jpg",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/manifest",
+                    "@type": "sc:Manifest"
+                }
+            }
+        },
+        {
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "resource": {
+                "format": "text/html",
+                "@type": "dctypes:Text",
+                "language": "en",
+                "chars": "<p>Scale</p>"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9faf45ae-42b5-4df3-805e-2cb0bee41c2d",
+            "motivation": "oa:commenting",
+            "@type": "oa:Annotation",
+            "stylesheet": {
+                "value": ".anno-9faf45ae-42b5-4df3-805e-2cb0bee41c2d { background: rgba(0, 191, 255, 0.5); }",
+                "type": "CssStylesheet"
+            },
+            "on": {
+                "selector": {
+                    "value": "xywh=503,419,433,24",
+                    "@type": "oa:FragmentSelector",
+                    "item": {
+                        "endSelector": {
+                            "value": "//*[@id='15fe6ad4-7ff8-4983-80a2-4fb86a5b199f']",
+                            "@type": "XPathSelector",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 6
+                            }
+                        },
+                        "startSelector": {
+                            "value": "//*[@id='6bb7c901-b84c-4c70-ae12-48e758d7e5cd']",
+                            "@type": "XPathSelector",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 1
+                            }
+                        },
+                        "@type": "RangeSelector"
+                    }
+                },
+                "@type": "oa:SpecificResource",
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-1911/canvas/osh-1911_00000012.jpg",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/manifest",
+                    "@type": "sc:Manifest"
+                }
+            }
+        },
+        {
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "resource": {
+                "format": "text/html",
+                "@type": "dctypes:Text",
+                "language": "en",
+                "chars": "<p>Title - The Extended Scale</p>"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c770cee5-9732-48a7-b8bc-29d52ba8206d",
+            "motivation": "oa:commenting",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "value": "xywh=490,408,467,49",
+                    "@type": "oa:FragmentSelector",
+                    "item": {
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M489.68739,407.53839h233.34918v0h233.34918v24.33638v24.33638h-233.34918h-233.34918v-24.33638z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e34d9abf-2fbd-4a7c-ade1-fb9106f3264b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "@type": "oa:Choice",
+                        "default": {
+                            "value": "xywh=490,408,467,49",
+                            "@type": "oa:FragmentSelector"
+                        }
+                    }
+                },
+                "@type": "oa:SpecificResource",
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-1911/canvas/osh-1911_00000012.jpg",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/manifest",
+                    "@type": "sc:Manifest"
+                }
+            }
+        }
+    ],
+    "@type": "sc:AnnotationList"
+}
